@@ -1,2 +1,2 @@
 # SlackBot
-Creating a cluster usage Slack bot.
+This is the current WIP creation of the Slack Bot. There are various files, but the key files are SlackAPITest.py, where I used the API provided from Slack to create a very simple bot that would state 'Hello World' in a test channel whenever the code was run, in preparation for the data from DD, and metrics.py, where I'm using the DataDog API to get some metrics data. Other files are testing various ways to get the data. 
